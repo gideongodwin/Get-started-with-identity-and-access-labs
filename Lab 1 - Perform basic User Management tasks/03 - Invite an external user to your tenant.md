@@ -6,7 +6,6 @@
 4. Select Users then select All users.
 5. At the top of the page select + New User.
 6. Choose the option to Invite external user from the dropdown.
-   <img width="1719" height="869" alt="10" src="https://github.com/user-attachments/assets/0c9a124c-1244-401c-95c9-f1aefd0f332e" />
 
 8. Enter the information for your new external user:
 
