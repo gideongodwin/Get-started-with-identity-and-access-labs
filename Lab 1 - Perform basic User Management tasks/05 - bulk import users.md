@@ -16,6 +16,6 @@ Note - Selecting Bulk create will open a new tile. This tile provides a Download
 
 <img width="1920" height="868" alt="15" src="https://github.com/user-attachments/assets/10036452-0cc4-4c89-a289-87f4ac8c65f3" />
 
-09. Wait for the notification that the file uploaded successfully.
+9. Wait for the notification that the file uploaded successfully.
 10. Select the Submit button to add the users.
  
