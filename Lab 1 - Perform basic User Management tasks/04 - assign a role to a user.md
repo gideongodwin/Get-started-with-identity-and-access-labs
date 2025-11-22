@@ -11,9 +11,8 @@
 6. From the newly opened menu select Assigned roles.
 7. At the top of the screen select + Add assignment.
 8. From the Select role dropdown menu chose the role Attribute Definition Reader.
-9. Select the Next button when it becomes available.
 
 <img width="1712" height="866" alt="13" src="https://github.com/user-attachments/assets/06e23246-3e75-4832-8a7a-d10befd25157" />
 
-10. Choose the option Eligible for Assignment type.
-11. Select Assign.
+09. Choose the option Eligible for Assignment type.
+10. Select Add.
