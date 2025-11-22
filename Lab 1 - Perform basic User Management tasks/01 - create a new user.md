@@ -10,11 +10,8 @@
    | User principal name | BhogeswarK       |
    | Display name        | Bhogeswar Kalita |
 
-
-
-
-
 <img width="1705" height="868" alt="1" src="https://github.com/user-attachments/assets/a9c61fcf-40f7-4372-b013-d94f3cc931fc" />
+
 
 
 
