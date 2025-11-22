@@ -11,10 +11,11 @@
 
 8. Enter the information for your new external user:
 
-   | Field               | Value            |
-   |---------------------|------------------|
-   | User principal name | BhogeswarK       |
-   | Display name        | Bhogeswar Kalita |
+    | Field        | Value                                                                                                             |
+    |--------------|-------------------------------------------------------------------------------------------------------------------|
+    | Email        | ExtUser@testemail.com                                                                                             |
+    | Display name | External User                                                                                                     |
+    | Message      | Thank you for joining the company for this short work project. We look forward to building this project together. |
 
 <img width="1705" height="870" alt="11" src="https://github.com/user-attachments/assets/8fcefd9b-bf47-4e63-a9a2-be0b57b5b4e1" />
 
