@@ -7,6 +7,8 @@
 5. At the top of the page select + New User.
 6. Choose the option to Invite external user from the dropdown.
 
+<img width="1413" height="869" alt="10" src="https://github.com/user-attachments/assets/d89ce541-8ba1-4de0-8aec-9ad801e02e36" />
+
 8. Enter the information for your new external user:
 
    | Field               | Value            |
@@ -14,7 +16,7 @@
    | User principal name | BhogeswarK       |
    | Display name        | Bhogeswar Kalita |
 
-   <img width="1920" height="1020" alt="11" src="https://github.com/user-attachments/assets/74a0f1a6-bda5-44a5-91f3-c3bd6a458be9" />
+<img width="1705" height="870" alt="11" src="https://github.com/user-attachments/assets/8fcefd9b-bf47-4e63-a9a2-be0b57b5b4e1" />
 
 10. Select the Review + Invite button.
 11. Select Invite.
