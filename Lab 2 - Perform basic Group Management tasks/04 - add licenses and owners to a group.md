@@ -1,4 +1,4 @@
-<img width="1366" height="597" alt="18" src="https://github.com/user-attachments/assets/5070d995-94f2-4cd9-9f11-e6ecca2e9320" />### Task 4 - Add licenses and owners to a group
+### Task 4 - Add licenses and owners to a group
 
 1. Open the Microsoft Entra admin center at https://entra.microsoft.com.
 2. Log in using the credentials for your tenant.
