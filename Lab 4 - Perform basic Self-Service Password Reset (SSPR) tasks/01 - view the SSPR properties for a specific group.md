@@ -1,4 +1,4 @@
-<img width="1179" height="595" alt="6" src="https://github.com/user-attachments/assets/951bb768-8957-4890-8b61-9875943f04b2" />### Task 1 - View the SSPR properties for a specific group
+### Task 1 - View the SSPR properties for a specific group
 
 1. Open the Microsoft Entra admin center at https://entra.microsoft.com.
 2. Log in using the credentials for your tenant.
@@ -73,5 +73,6 @@ Note - this value represents how many different ways the user is required to sig
 4. Use the Save option to save your changes.
 
 <img width="1120" height="504" alt="11" src="https://github.com/user-attachments/assets/ae2a0a5f-2551-4e17-9204-94618a93102a" />
+
 
 
