@@ -18,7 +18,3 @@
 
 <img width="1366" height="467" alt="7" src="https://github.com/user-attachments/assets/c3484494-16b1-4866-93b8-076ce2912317" />
 
-6. Review some of the other configuration options you have on MFA like:
-  - Fraud alert
-  - Block / unblock users 
-  - Notifications                                                  
