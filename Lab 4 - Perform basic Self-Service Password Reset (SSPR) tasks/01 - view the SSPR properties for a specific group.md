@@ -20,8 +20,8 @@
 7. Mark the Project23 group.
 8. Use the Select button to complete your choice.
 
-<img width="1364" height="598" alt="2" src="https://github.com/user-attachments/assets/2a1c5f60-f143-4e0c-83c4-106a627f7b66" />
+<img width="1364" height="598" alt="2" src="https://github.com/user-attachments/assets/917a5c1d-03a5-4d7a-bec3-8eca69707d8f" />
 
 9. Save your configuration.
 
-<img width="852" height="462" alt="3" src="https://github.com/user-attachments/assets/f6a1eab6-a024-4cff-903f-f0a06307d9b5" />
+<img width="852" height="462" alt="3" src="https://github.com/user-attachments/assets/12f656a0-007a-4d0b-ab6a-791d135afbe4" />
