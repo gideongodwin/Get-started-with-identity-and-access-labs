@@ -14,8 +14,7 @@
 5. Set the value to Selected.
 6. Select the text No groups selected.
 
-<img width="499" height="295" alt="1" src="https://github.com/user-attachments/assets/8d41e4c6-7f88-4278-b492-9b0e4c3e0fe2" />
-
+<img width="499" height="295" alt="1" src="https://github.com/user-attachments/assets/49fb9fda-680f-495d-a936-4d0df7acb914" />
 
 7. Mark the Project23 group.
 8. Use the Select button to complete your choice.
@@ -25,3 +24,4 @@
 9. Save your configuration.
 
 <img width="852" height="462" alt="3" src="https://github.com/user-attachments/assets/12f656a0-007a-4d0b-ab6a-791d135afbe4" />
+
