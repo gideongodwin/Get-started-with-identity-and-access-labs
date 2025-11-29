@@ -17,5 +17,5 @@
 
 <img width="1705" height="870" alt="11" src="https://github.com/user-attachments/assets/8fcefd9b-bf47-4e63-a9a2-be0b57b5b4e1" />
 
-06. Select the Review + Invite button.
-07. Select Invite.
+6. Select the Review + Invite button.
+7. Select Invite.
