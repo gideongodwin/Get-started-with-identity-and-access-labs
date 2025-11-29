@@ -3,6 +3,9 @@
 2. Log in using the credentials for your tenant.
 3. From the menu on the left, select User and then All users.
 4. Select + New user and then pick the Create new user option.
+
+<img width="568" height="274" alt="create-new-user-menu" src="https://github.com/user-attachments/assets/27e3ba8e-1e48-4987-bbed-a4b7d9103d81" />
+
 5. Enter the requested information:
    
    | Field               | Value            |
@@ -35,5 +38,6 @@
 16. Select Create.
 
 <img width="1712" height="868" alt="4" src="https://github.com/user-attachments/assets/b0050ea0-438f-4ae4-b2f3-3048c1df0867" />
+
 
 
