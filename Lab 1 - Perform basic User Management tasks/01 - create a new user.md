@@ -10,7 +10,7 @@
    | User principal name | BhogeswarK       |
    | Display name        | Bhogeswar Kalita |
 
-<img width="1705" height="868" alt="1" src="https://github.com/user-attachments/assets/a9c61fcf-40f7-4372-b013-d94f3cc931fc" />
+<img width="1705" height="868" alt="517725466-a9c61fcf-40f7-4372-b013-d94f3cc931fc" src="https://github.com/user-attachments/assets/88968803-1ec8-4394-b35b-b4b4961bc93a" />
 
 6. Leave the Mail nickname as is.
 7. Make a copy of the Password (auto-generated) and store it in Notepad. You will need it later.
@@ -35,3 +35,4 @@
 16. Select Create.
 
 <img width="1712" height="868" alt="4" src="https://github.com/user-attachments/assets/b0050ea0-438f-4ae4-b2f3-3048c1df0867" />
+
