@@ -18,7 +18,8 @@
     | Display name | External User                                                                                                     |
     | Message      | Thank you for joining the company for this short work project. We look forward to building this project together. |
 
-<img width="1705" height="870" alt="11" src="https://github.com/user-attachments/assets/8fcefd9b-bf47-4e63-a9a2-be0b57b5b4e1" />
+
+<img width="1705" height="870" alt="517728244-8fcefd9b-bf47-4e63-a9a2-be0b57b5b4e1" src="https://github.com/user-attachments/assets/f5872f01-73a7-463f-9d9e-2b7ad17ea445" />
 
 6. Select the Review + Invite button.
 
