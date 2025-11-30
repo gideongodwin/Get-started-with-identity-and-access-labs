@@ -26,7 +26,7 @@
     | Value           | Guest        |
     | Membership type | Dynamic User |
 
-   <img width="1373" height="598" alt="6" src="https://github.com/user-attachments/assets/7d86aa62-7432-47c5-adb2-cb2846e49e4a" />
+<img width="1373" height="598" alt="6" src="https://github.com/user-attachments/assets/7d86aa62-7432-47c5-adb2-cb2846e49e4a" />
    
 8. Select the Save item from the top of the page.
 9. Select the Create button.
@@ -36,8 +36,8 @@
 10. From the All Groups select the Refresh item.
 11. Select the Guest Users group we just created.
 
-<img width="1581" height="869" alt="8" src="https://github.com/user-attachments/assets/a954d49c-980d-4164-8fec-d6efe40a8550" />
-
+<img width="1581" height="526" alt="ai" src="https://github.com/user-attachments/assets/3c098fa3-f6ab-47b1-9ebf-416774f9acd2" />
+ 
 12. Select Members.
 
 <img width="1696" height="805" alt="9" src="https://github.com/user-attachments/assets/9927eaa6-d936-4116-bdd4-0b1daa02f1c8" />
