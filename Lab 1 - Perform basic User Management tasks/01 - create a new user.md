@@ -35,18 +35,19 @@
    
 <img width="1708" height="863" alt="2" src="https://github.com/user-attachments/assets/80815abe-dc6a-466b-a83f-9e882176289a" />
 
-11. Note that you can set the User type to Member. If you pick Guest, it will restrict the users capabilities.
+Note that you can set the User type to Member. If you pick Guest, it will restrict the users capabilities.
 
-12. Scroll down to the bottom of the page.
+11. Scroll down to the bottom of the page.
 
-13. Set the Usage location to United States or to whatever region you are in.
+12. Set the Usage location to United States or to whatever region you are in.
 
 <img width="1709" height="865" alt="3" src="https://github.com/user-attachments/assets/893ae4b7-2e5d-44b5-af33-42b758be4183" />
     
-15. Select the Review + create button.
-16. Select Create.
+13. Select the Review + create button.
+14. Select Create.
 
 <img width="1712" height="868" alt="4" src="https://github.com/user-attachments/assets/b0050ea0-438f-4ae4-b2f3-3048c1df0867" />
+
 
 
 
