@@ -1,6 +1,6 @@
 ### Task 1 - View lock settings, and review duration and threshold values
 
-1. Open the Microsoft Entra admin center at https://entra.microsoft.com.
+1. Open the Microsoft Entra admin center at https://entra.microsoft.com
 2. Log in using the credentials for your tenant.
 3. From the menu on the left, select Authentication methods.
  
@@ -24,5 +24,6 @@
 8. Set the value for Mode to Enforced.
 9. Select the Save item at the top of the screen.
 <img width="1191" height="599" alt="2" src="https://github.com/user-attachments/assets/e3e434dc-c656-4cd0-a2a5-6578c38b8c08" />
+
 
 
