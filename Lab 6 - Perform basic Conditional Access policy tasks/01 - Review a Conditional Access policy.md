@@ -1,9 +1,9 @@
 ### Task 1 - Review a Conditional Access policy
 
-1. Open the Microsoft Entra admin center at https://entra.microsoft.com.
+1. Open the Microsoft Entra admin center at https://entra.microsoft.com
 2. Log in using the credentials for your tenant.
 3. From the menu on the left, select Conditional access.
-4. Review the information provided on the Conditional Access Overview page.\
+4. Review the information provided on the Conditional Access Overview page.
 5. Select the + Create new policy from the top menu. 
 
 <img width="1191" height="596" alt="1" src="https://github.com/user-attachments/assets/96358af1-d079-4b43-9f2b-27a6bf203df8" />
@@ -56,6 +56,7 @@
 <img width="1128" height="599" alt="7" src="https://github.com/user-attachments/assets/52b79ec1-b082-4c2b-91fe-34a79f987422" />
 
 <img width="1366" height="601" alt="8" src="https://github.com/user-attachments/assets/4a31d719-ce01-4787-a5a9-5c3410cc51b1" />
+
 
 
 
