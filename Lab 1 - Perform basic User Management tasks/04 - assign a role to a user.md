@@ -4,7 +4,7 @@
 
 2. If prompted, log in using the credentials for your tenant.
 
-3. In the left menu, Select Users then select All users.
+3. Select Users > All users from the left menu.
 
 4. Select the user Bhogeswar Kalita.
 
