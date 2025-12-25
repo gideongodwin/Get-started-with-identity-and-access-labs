@@ -12,9 +12,9 @@
 
 5. From the newly opened menu select Assigned roles.
 
-6. At the top of the screen select + Add assignment.
+6. At the top of the screen, select + Add assignment.
 
-7. From the Select role dropdown menu chose the role Attribute Definition Reader.
+7. From the Directory Roles, choose the Attribute Definition Reader role
 
 <img width="1712" height="866" alt="13" src="https://github.com/user-attachments/assets/06e23246-3e75-4832-8a7a-d10befd25157" />
 
