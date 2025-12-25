@@ -18,6 +18,4 @@
 
 <img width="1712" height="866" alt="13" src="https://github.com/user-attachments/assets/06e23246-3e75-4832-8a7a-d10befd25157" />
 
-8. Choose the option Eligible for Assignment type.
-
-9. Select Add.
+8. Select Add.
