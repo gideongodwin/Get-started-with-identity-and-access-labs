@@ -1,4 +1,4 @@
-# Get-started-with-identity-and-access-labs
+# Get Started With Identity and Access Labs
 
 This project contains a set of beginner-friendly labs designed to help you explore the foundational identity and access management features of the Microsoft Entra.
 
