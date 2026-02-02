@@ -1,6 +1,6 @@
 ### Task 4 - Assign a role to a user
 
-1. Open the Microsoft Entra admin center at https://entra.microsoft.com
+1. Open the [Microsoft Entra Admin Center](https://entra.microsoft.com)
 
 2. If prompted, log in using the credentials for your tenant.
 
