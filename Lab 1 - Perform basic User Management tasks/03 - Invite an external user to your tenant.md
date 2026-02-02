@@ -1,6 +1,6 @@
 ### Task 3 - Invite an external user to your tenant
 
-1. Open the Microsoft Entra admin center at https://entra.microsoft.com
+1. Open the [Microsoft Entra Admin Center](https://entra.microsoft.com)
 
 2. From the menu on the left, select Users then select All users.
 
