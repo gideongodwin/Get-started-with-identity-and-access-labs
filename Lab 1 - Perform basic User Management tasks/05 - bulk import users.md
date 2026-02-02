@@ -1,6 +1,6 @@
 ### Task 5 - Bulk import users
 
-1. Open the Microsoft Entra admin center at https://entra.microsoft.com
+1. Open the [Microsoft Entra Admin Center](https://entra.microsoft.com)
 2. Select Users and then select All users.
 3. From the top of the page, select the Bulk operations drop-down arrow and then select Bulk create.
    
