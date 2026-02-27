@@ -22,9 +22,9 @@
 
 7. Leave Account enabled checked.
 
-9. Select the Properties tab.
+8. Select the Properties tab.
 
-10. Set the values for first and last name:
+9. Set the values for first and last name:
     
    | Field               | Value            |
    |---------------------|------------------|
@@ -35,16 +35,17 @@
 
 Note that you can set the User type to Member. If you pick Guest, it will restrict the users capabilities.
 
-11. Scroll down to the bottom of the page.
+10. Scroll down to the bottom of the page.
 
-12. Set the Usage location to United States or to whatever region you are in.
+11. Set the Usage location to United States or to whatever region you are in.
 
 <img width="1709" height="865" alt="3" src="https://github.com/user-attachments/assets/893ae4b7-2e5d-44b5-af33-42b758be4183" />
     
-13. Select the Review + create button.
-14. Select Create.
+12. Select the Review + create button.
+13. Select Create.
 
 <img width="1712" height="868" alt="4" src="https://github.com/user-attachments/assets/b0050ea0-438f-4ae4-b2f3-3048c1df0867" />
+
 
 
 
