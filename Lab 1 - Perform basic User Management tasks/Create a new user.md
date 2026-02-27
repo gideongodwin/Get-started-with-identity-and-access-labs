@@ -1,15 +1,13 @@
 ### Task 1 - Create a new user
-1. Open the [Microsoft Entra Admin Center](https://entra.microsoft.com)
+1. Sign in to the [Microsoft Entra Admin Center](https://entra.microsoft.com)
 
-2. Log in using the credentials for your tenant.
+2. From the menu on the left, select User and then All users
 
-3. From the menu on the left, select User and then All users.
-
-4. Select + New user and then pick the Create new user option.
+3. Select + New user and then pick the Create new user option
 
 <img width="568" height="274" alt="create-new-user-menu" src="https://github.com/user-attachments/assets/27e3ba8e-1e48-4987-bbed-a4b7d9103d81" />
 
-5. Enter the requested information:
+4. Enter the requested information:
    
    | Field               | Value            |
    |---------------------|------------------|
@@ -18,11 +16,11 @@
 
 <img width="1705" height="868" alt="517725466-a9c61fcf-40f7-4372-b013-d94f3cc931fc" src="https://github.com/user-attachments/assets/88968803-1ec8-4394-b35b-b4b4961bc93a" />
 
-6. Leave the Mail nickname as is.
+5. Leave the Mail nickname as is.
 
-7. Make a copy of the Password (auto-generated) and store it in Notepad. You will need it later.
+6. Make a copy of the Password (auto-generated) and store it in Notepad. You will need it later.
 
-8. Leave Account enabled checked.
+7. Leave Account enabled checked.
 
 9. Select the Properties tab.
 
@@ -47,6 +45,7 @@ Note that you can set the User type to Member. If you pick Guest, it will restri
 14. Select Create.
 
 <img width="1712" height="868" alt="4" src="https://github.com/user-attachments/assets/b0050ea0-438f-4ae4-b2f3-3048c1df0867" />
+
 
 
 
