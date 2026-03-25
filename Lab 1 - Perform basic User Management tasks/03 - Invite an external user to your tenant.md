@@ -16,6 +16,6 @@
 
     <img width="1241" height="828" alt="520414141-f5872f01-73a7-463f-9d9e-2b7ad17ea445" src="https://github.com/user-attachments/assets/d6e0d200-f557-4f8a-97a4-06359386b56a" />
  
-4. Select the Review + invite, then invite
+4. Select the `Review + invite`, then invite
 
 
