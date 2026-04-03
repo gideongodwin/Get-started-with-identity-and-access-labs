@@ -2,7 +2,7 @@
 
 1. Sign in to the [Microsoft Entra Admin Center](https://entra.microsoft.com)
 
-2. Select Conditional access > Select the + Create new policy
+2. Select Conditional access >  `+ Create new policy`
 
     <img width="1191" height="384" alt="519122085-96358af1-d079-4b43-9f2b-27a6bf203df8" src="https://github.com/user-attachments/assets/933bab2a-55ab-4a34-bd8f-dd267ce8d8f4" />
 
