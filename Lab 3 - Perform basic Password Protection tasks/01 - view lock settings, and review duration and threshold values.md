@@ -1,14 +1,12 @@
-### Task 1 - View lock settings, and review duration and threshold values
+## Task 1 - View lock settings, and review duration and threshold values
 
-1. Open the Microsoft Entra admin center at https://entra.microsoft.com
-2. Log in using the credentials for your tenant.
-3. From the menu on the left, select Authentication methods.
- 
-4. Select Password protection from the list.
+1. Sign in to the [Microsoft Entra Admin Center](https://entra.microsoft.com)
 
-<img width="1155" height="598" alt="1" src="https://github.com/user-attachments/assets/cf600339-ca80-40ac-ad15-17042ec4e4a6" />
+3. Select Authentication methods > Password protection
 
-5. Set the Custom smart lockout with the following values
+   <img width="1052" height="441" alt="518531244-cf600339-ca80-40ac-ad15-17042ec4e4a6" src="https://github.com/user-attachments/assets/5308bbb3-c874-4114-9a0a-99f7611c41b0" />
+
+4. Set the Custom smart lockout with the following values
 
     | Field             | Value | Description                                                                     |
     |-------------------|-------|---------------------------------------------------------------------------------|
@@ -16,14 +14,16 @@
     | Lockout duration  | 30    | How many second the account should lock when the threshold is reached.          |
 
 6. Set Enforce custom list to Yes.
+
 7. Enter the following values:
     - Contoso
     - London
     - Widget
 
-8. Set the value for Mode to Enforced.
-9. Select the Save item at the top of the screen.
-<img width="1191" height="599" alt="2" src="https://github.com/user-attachments/assets/e3e434dc-c656-4cd0-a2a5-6578c38b8c08" />
+8. Set the value for Mode to `Enforced`
 
+9. Select the Save item at the top of the screen.
+
+   <img width="954" height="471" alt="518530904-e3e434dc-c656-4cd0-a2a5-6578c38b8c08" src="https://github.com/user-attachments/assets/ad6ca36b-6975-4d14-a309-0d59b196505f" />
 
 
